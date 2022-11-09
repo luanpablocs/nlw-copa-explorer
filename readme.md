@@ -7,7 +7,7 @@
 Projeto <I><b>'NLW #10 Copa'</b> da Rocketseat.
 Um projeto do professor Mayk Brito, ensinando a fazer o calendário da Copa do mundo de 2022 / <b>Trilha Explorer</b>, com conceitos do HTML, CSS e Javascript.
 
-[🔗 Clique aqui para acessar](https://nlw-copa-card-two.vercel.app/)
+[🔗 Clique aqui para acessar](https://calendario-copa-2022-zeta.vercel.app/)
 
 ## 🌐 Tecnologias
 
